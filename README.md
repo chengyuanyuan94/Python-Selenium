@@ -1,0 +1,2 @@
+# Python-Selenium
+基于python语言采用selenium+webdriver相关的知识对web执行的自动化操作实战
