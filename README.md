@@ -8,7 +8,7 @@
 ------
 
 - ###126邮箱登录界面
-	- 贴出部分代码如下：[完整代码请点击查看~](./12306_web\mailloginpage.py)
+	- 贴出部分代码如下：[完整代码请点击查看~](https://rawgit.com/chengyuanyuan94/Python-Selenium/master/12306_web/mailloginpage.py)
 <pre>
 # -*- coding:utf-8 -*-
 #导入需要的模块
@@ -30,7 +30,7 @@ more>>>
 
 ---
 - ###126邮箱登录界面+输出测试报告
-	- 贴出部分代码如下：[完整代码请点击查看~](./12306_web\mailreport.py)
+	- 贴出部分代码如下：[完整代码请点击查看~](.https://rawgit.com/chengyuanyuan94/Python-Selenium/master/12306_web/mailreport.py)
 	
 <pre>
 	import HTMLTestRunner  #导入生成的HTML报告模板
@@ -46,3 +46,5 @@ more>>>
 	……
 	more>>>
 </pre>
+贴图如下：
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2539401-1a3c4f3cf5e09761.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
