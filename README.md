@@ -8,7 +8,7 @@
 ------
 
 - ###126邮箱登录界面
-	- 贴出部分代码如下：[完整代码请点击查看~](https://rawgit.com/chengyuanyuan94/Python-Selenium/tree/master/12306_web)
+	- 贴出部分代码如下：详见文件夹内的py文件
 <pre>
 # -*- coding:utf-8 -*-
 #导入需要的模块
@@ -30,7 +30,7 @@ more>>>
 
 ---
 - ###126邮箱登录界面+输出测试报告
-	- 贴出部分代码如下：[完整代码请点击查看~](https://rawgit.com/chengyuanyuan94/Python-Selenium/tree/master/12306_web)
+	- 贴出部分代码如下：详见文件夹内的py文件
 	
 <pre>
 	import HTMLTestRunner  #导入生成的HTML报告模板
