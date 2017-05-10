@@ -3,7 +3,7 @@
 
 **更多selenium基础知识请点击此处：**[selenium基础知识](http://www.jianshu.com/nb/10193521)
 
-**[点击获得----HTMLTestRunner.py测试报告模板](./12306_web\HTMLTestRunner.py)**
+**[点击获得----HTMLTestRunner.py测试报告模板](http://tungwaiyip.info/software/HTMLTestRunner.html)**
 
 ------
 
@@ -46,5 +46,5 @@ more>>>
 	……
 	more>>>
 </pre>
-贴图如下：
+贴图如下：（可能有些人会奇怪和官网的样式不一样，不要奇怪哦，网络上有许多别人改过的哦~可以去搜索download哦）
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2539401-1a3c4f3cf5e09761.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
