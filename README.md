@@ -3,8 +3,12 @@
 
 **更多selenium基础知识请点击此处：**[selenium基础知识](http://www.jianshu.com/nb/10193521)
 
-- 126邮箱登录界面
-	- 贴出部分代码如下：[完整代码请点击查看~](12306_web\mailloginpage.py)
+**[点击获得----HTMLTestRunner.py测试报告模板](./12306_web\HTMLTestRunner.py)**
+
+------
+
+- ###126邮箱登录界面
+	- 贴出部分代码如下：[完整代码请点击查看~](./12306_web\mailloginpage.py)
 <pre>
 # -*- coding:utf-8 -*-
 #导入需要的模块
@@ -22,4 +26,23 @@ class MailLogin(unittest.TestCase):
 ……
 ……
 more>>>
+</pre>
+
+---
+- ###126邮箱登录界面+输出测试报告
+	- 贴出部分代码如下：[完整代码请点击查看~](./12306_web\mailreport.py)
+	
+<pre>
+	import HTMLTestRunner  #导入生成的HTML报告模板
+	testunit = unittest.TestSuite()
+ 	testunit.addTest(MailLogin("test_login"))
+ 	report_path = "report.html"
+ 	fp = open(report_path,"wb")
+ 	runner = HTMLTestRunner.HTMLTestRunner(stream = fp,title = u"163邮箱登录页面测试",description = u"执行结果如下显示")
+ 	runner.run(testunit)
+ 	fp.close()
+	……
+	……
+	……
+	more>>>
 </pre>
