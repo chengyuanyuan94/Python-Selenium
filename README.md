@@ -51,6 +51,9 @@ more>>>
 
 -----
 ###小说登录界面（改进版）
+**注意：HtmlTestRunner.py是测试报告的生成样式，我们下载好后放在Python的lib目录下即可
+from HtmlTestRunner import HtmlTestRunner 调用**
+
     '''
     def test_login_success(self):
 		self.login("jingel","123456")
